@@ -6,7 +6,10 @@ import Header from "./components/header/Header";
 import Login from "./pages/auth/Login";
 import Register from "./pages/auth/Register";
 import Verify from "./pages/auth/Verify";
-import Footer from "./components/footer/footer";
+// import Footer from "./components/footer/footer";
+import Footer from "./components/footer/Footer";
+
+
 import About from "./pages/about/About";
 import Account from "./pages/account/Account";
 import { UserData } from "./context/UserContext";
